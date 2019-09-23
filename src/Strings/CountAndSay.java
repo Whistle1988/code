@@ -18,7 +18,7 @@ public class CountAndSay {
                     temp.append(prev);
                     counter = 1;
                     prev = ch;
-                }else{
+                } else {
                     counter++;
                 }
             }

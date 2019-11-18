@@ -15,17 +15,21 @@ public class No41_FirstMissingPositive {
         System.out.println(no41_firstMissingPositive.firstMissingPositive(nums));
     }
     public int firstMissingPositive(int[] nums) {
-        Arrays.sort(nums);
-        List<Integer> list = new ArrayList<>();
-        int flag;
-        if (nums[0]>1){
-            return 1;
-        }else{
-            flag=1;
+        int i=0;
+        while(i<nums.length){
+            if (nums[i]>=1&&nums[i]<=nums.length&&nums[nums[i]-1]!=nums[i]){
+                swap(nums,i,nums[i]-1);
+            }else
+                i++;
         }
-        list.add(nums[nums.length-1]);
-        for (int i = nums.length-2; i >0 ; i--) {
-            if (!list.contains(nums[i]+1))
+        for (int j = 0; j < nums.length; j++) {
+            if (nums[j]!=j+1)return j+1;
         }
+        return nums.length+1;
+    }
+    private void swap(int[] nums,int i,int j){
+        int tmp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = tmp;
     }
 }

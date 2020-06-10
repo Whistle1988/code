@@ -31,4 +31,5 @@ public class No60_PermutationSequence {
         }
         return sb.toString();
     }
+
 }

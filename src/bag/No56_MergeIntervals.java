@@ -32,7 +32,7 @@ public class No56_MergeIntervals {
 //       if (intervals == null||intervals.length==0)
 //           return new int[0][0];
 //        Arrays.sort(intervals,(Comparator.comparingInt(x -> x[0])));
-//        List<int[]> merged = new ArrayList<>();
+//        ListSet<int[]> merged = new ArrayList<>();
 //        int[] current = intervals[0];
 //        for (int i = 1; i < intervals.length; i++) {
 //            if (current[1]>=intervals[i][0])

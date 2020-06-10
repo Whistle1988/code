@@ -27,4 +27,18 @@ public class No78_Subsets {
         }
         return list;
     }
+    public int myAtoi(String str) {
+        str = str.trim();
+        int flag=0;
+        if (str.charAt(0)!='-'||str.charAt(0)!='+'||str.charAt(0)-'0'<10)return 0;
+        int res = 0;
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i)-'0'<10){
+                res = i==0?res:res*10;
+                res+=str.charAt(i)-'0';
+            }else
+                break;
+        }
+        return res;
+    }
 }

@@ -15,12 +15,12 @@ public class No46_Permutations {
         int[] nums = {1,2,3};
         permutations.permute(nums);
     }
-//    public List<List<Integer>> permute(int[] nums) {
-//        List<List<Integer>> list = new ArrayList<>();
+//    public ListSet<ListSet<Integer>> permute(int[] nums) {
+//        ListSet<ListSet<Integer>> list = new ArrayList<>();
 //        _permute(list, new ArrayList<>(),nums);
 //        return list;
 //    }
-//    public void _permute(List<List<Integer>>list,List<Integer> tmp,int[] nums){
+//    public void _permute(ListSet<ListSet<Integer>>list,ListSet<Integer> tmp,int[] nums){
 //        if (tmp.size() == nums.length) {
 //            list.add(new ArrayList<>(tmp));
 //        }else{
@@ -33,12 +33,12 @@ public class No46_Permutations {
 //        }
 //    }
     //方法二
-//    public List<List<Integer>> permute(int[] nums){
-//        List<List<Integer>> ret = new ArrayList<>();
+//    public ListSet<ListSet<Integer>> permute(int[] nums){
+//        ListSet<ListSet<Integer>> ret = new ArrayList<>();
 //        dfs(ret,new LinkedHashSet<>(),nums);
 //        return ret;
 //    }
-//    private void dfs(List<List<Integer>> ret, Set<Integer> path,int[] nums){
+//    private void dfs(ListSet<ListSet<Integer>> ret, Set<Integer> path,int[] nums){
 //        if (path.size() == nums.length){
 //            ret.add(new ArrayList<>(path));
 //        }

@@ -1,0 +1,22 @@
+
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Q
+java:S2274";Remove this call to "await" or move it into a "while" loop.(ÆáÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ
+\
+java:S2142*"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Q
+java:S2274%";Remove this call to "await" or move it into a "while" loop.(ü¹–Ö
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ
+\
+java:S21429"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Q
+java:S22744";Remove this call to "await" or move it into a "while" loop.(ÿÕÀÉ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ

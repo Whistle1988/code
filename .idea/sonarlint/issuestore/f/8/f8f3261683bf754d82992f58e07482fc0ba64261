@@ -1,0 +1,30 @@
+
+S
+java:S1117:"8Rename "res" which hides the field declared at line 135.(ÓèÄÅÿÿÿÿÿ
+p	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ô²ºÿÿÿÿÿ8Ü¥Œ”ª.
+d
+java:S1126É"AReplace this if-then-else statement by a single return statement.(ıâÕµÿÿÿÿÿ8Ã‹˜”ª.
+p	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¯Ñ’øÿÿÿÿ8€ÎŸ•ª.
+Q	java:S125q"<This block of commented-out lines of code should be removed.(˜¢ñĞ
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8ùş’“ª.
+M
+java:S3740©"/Provide the parametrized type for this generic.(Ú€À8ùş’“ª.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†şğ’ıÿÿÿÿ
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(ÔÔ·Ñ8ÁÅ—•ª.
+a
+java:S1155ª">Use isEmpty() to check whether the collection is empty or not.(Õ Øşùÿÿÿÿ8¶¢”“ª.
+T
+java:S1117;"9Rename "list" which hides the field declared at line 136.(¤Êí…ıÿÿÿÿ
+M
+java:S3740©"/Provide the parametrized type for this generic.(Ú€À8ùş’“ª.
+k	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú€À8ùş’“ª.
+S
+java:S1117&"8Rename "res" which hides the field declared at line 135.(ÓèÄÅÿÿÿÿÿ
+T
+java:S1117"9Rename "list" which hides the field declared at line 136.(¤Êí…ıÿÿÿÿ
+T
+java:S1117'"9Rename "list" which hides the field declared at line 136.(¤Êí…ıÿÿÿÿ
+
+java:S1319„"oThe type of the "cur" object should be an interface such as "List" rather than the implementation "LinkedList".(å—ì8ßêıœª.

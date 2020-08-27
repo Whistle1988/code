@@ -10,30 +10,31 @@ import java.util.List;
  */
 public class No40_CombinationSum {
     public static void main(String[] args) {
-        int[] candidates = {10,1,2,7,6,1,5};
+        int[] candidates = {10, 1, 2, 7, 6, 1, 5};
         int target = 8;
         No40_CombinationSum combinationSum = new No40_CombinationSum();
-        String str = combinationSum.combinationSum2(candidates,target).toString();
+        String str = combinationSum.combinationSum2(candidates, target).toString();
         System.out.println(str);
     }
 
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum2(int[] prices, int m) {
         List<List<Integer>> result = new ArrayList<>();
-        Arrays.sort(candidates);
-        getResult2(result,new ArrayList<>(),candidates,target,0);
+        Arrays.sort(prices);
+        getResult2(result, new ArrayList<>(), prices, m, 0);
         return result;
     }
-    public void getResult2(List<List<Integer>>result,List<Integer> cur,int[] candidates,int target,int start){
-        if(target > 0){
-            for(int i=start;i<candidates.length&&target>=candidates[i];i++){
+
+    public void getResult2(List<List<Integer>> result, List<Integer> cur, int[] candidates, int target, int start) {
+        if (target > 0) {
+            for (int i = start; i < candidates.length && target >= candidates[i]; i++) {
                 if (i > start && candidates[i] == candidates[i - 1]) {
                     continue;
                 }
                 cur.add(candidates[i]);
-                getResult2(result,cur,candidates,target-candidates[i],i+1);
-                cur.remove(cur.size()-1);
+                getResult2(result, cur, candidates, target - candidates[i], i + 1);
+                cur.remove(cur.size() - 1);
             }
-        }else if(target == 0){
+        } else if (target == 0) {
             result.add(new ArrayList<>(cur));
         }
     }

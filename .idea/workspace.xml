@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667e0fd6-f217-48e6-a249-59c62c5906e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0754807ce51f07a7b640f55af05a3f48cd845074" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0754807ce51f07a7b640f55af05a3f48cd845074" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1aef877ab154f961a41cf79f4e53602fde3256ea" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1aef877ab154f961a41cf79f4e53602fde3256ea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57987a18987ef783c17d68077ed27a914e9081f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57987a18987ef783c17d68077ed27a914e9081f7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80fc846b217e8f0478ee2152c6718feeb2b8b7b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80fc846b217e8f0478ee2152c6718feeb2b8b7b9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8f3261683bf754d82992f58e07482fc0ba64261" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8f3261683bf754d82992f58e07482fc0ba64261" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/dreamBegin/dp/No152_maxProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/dreamBegin/dp/No152_maxProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/thread/TestReadWriteLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/thread/TestReadWriteLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bag/No124_BinaryTreeMaxPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bag/No124_BinaryTreeMaxPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bag/No40_CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bag/No40_CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread/TestReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/TestReadWriteLock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +39,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sort</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,7 +57,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.No152_maxProduct">
+  <component name="RunManager" selected="Application.TestReadWriteLock">
     <configuration name="Baidu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="targetOffer.Baidu" />
       <module name="Code" />
@@ -92,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Meituan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="targetOffer.Meituan" />
-      <module name="Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="targetOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="No152_maxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dreamBegin.dp.No152_maxProduct" />
       <module name="Code" />
@@ -118,20 +110,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestReadWriteLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.TestReadWriteLock" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Meituan" />
       <item itemvalue="Application.Mei3" />
       <item itemvalue="Application.DP" />
       <item itemvalue="Application.Baidu" />
       <item itemvalue="Application.No152_maxProduct" />
+      <item itemvalue="Application.TestReadWriteLock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestReadWriteLock" />
         <item itemvalue="Application.No152_maxProduct" />
         <item itemvalue="Application.Baidu" />
         <item itemvalue="Application.DP" />
         <item itemvalue="Application.Mei3" />
-        <item itemvalue="Application.Meituan" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +212,18 @@
       <workItem from="1590678383082" duration="4183000" />
       <workItem from="1590727359474" duration="655000" />
       <workItem from="1591849828827" duration="8556000" />
+      <workItem from="1592636009524" duration="5385000" />
+      <workItem from="1592911193585" duration="611000" />
+      <workItem from="1593852497818" duration="2337000" />
+      <workItem from="1594350549490" duration="559000" />
+      <workItem from="1596365722778" duration="40000" />
+      <workItem from="1596459901453" duration="1386000" />
+      <workItem from="1596784906131" duration="45000" />
+      <workItem from="1596784981390" duration="595000" />
+      <workItem from="1596785730285" duration="593000" />
+      <workItem from="1597223437583" duration="512000" />
+      <workItem from="1597820019716" duration="9093000" />
+      <workItem from="1598108354525" duration="777000" />
     </task>
     <servers />
   </component>
@@ -217,6 +234,38 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1244" height="229" key="GridCell.Tab.0.bottom" timestamp="1593946902038">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1244" height="229" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1593946902038" />
+    <state width="1244" height="229" key="GridCell.Tab.0.center" timestamp="1593946902037">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1244" height="229" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1593946902037" />
+    <state width="1244" height="229" key="GridCell.Tab.0.left" timestamp="1593946902037">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1244" height="229" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1593946902037" />
+    <state width="1244" height="229" key="GridCell.Tab.0.right" timestamp="1593946902038">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1244" height="229" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1593946902038" />
+    <state x="577" y="258" key="IDE.errors.dialog" timestamp="1597223599869">
+      <screen x="0" y="23" width="1792" height="1046" />
+    </state>
+    <state x="577" y="258" key="IDE.errors.dialog/0.23.1792.1046@0.23.1792.1046" timestamp="1597223599869" />
+    <state x="607" y="169" width="741" height="896" key="find.popup" timestamp="1598097016552">
+      <screen x="0" y="23" width="1792" height="1042" />
+    </state>
+    <state x="607" y="169" width="741" height="896" key="find.popup/0.23.1792.1042@0.23.1792.1042" timestamp="1598097016552" />
+    <state x="607" y="344" width="740" height="574" key="find.popup/0.23.1792.1046@0.23.1792.1046" timestamp="1592638321556" />
+    <state x="650" y="164" width="793" height="861" key="find.popup/0.23.1920.1002@0.23.1920.1002" timestamp="1596365761362" />
+    <state x="742" y="40" width="838" height="1032" key="search.everywhere.popup" timestamp="1597978844741">
+      <screen x="0" y="23" width="1792" height="1049" />
+    </state>
+    <state x="742" y="40" width="838" height="1032" key="search.everywhere.popup/0.23.1792.1049@0.23.1792.1049" timestamp="1597978844741" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -531,22 +580,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/bag/No40_CombinationSum.java</url>
-          <line>28</line>
+          <line>29</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/bag/No40_CombinationSum.java</url>
-          <line>31</line>
+          <line>32</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/bag/No40_CombinationSum.java</url>
-          <line>33</line>
+          <line>34</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/bag/No40_CombinationSum.java</url>
-          <line>36</line>
+          <line>37</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

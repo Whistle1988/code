@@ -1,6 +1,6 @@
 package bag;
 
-import com.sun.javafx.image.IntPixelGetter;
+//import com.sun.javafx.image.IntPixelGetter;
 
 /**
  * @author YoSaukit

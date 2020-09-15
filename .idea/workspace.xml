@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667e0fd6-f217-48e6-a249-59c62c5906e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0754807ce51f07a7b640f55af05a3f48cd845074" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0754807ce51f07a7b640f55af05a3f48cd845074" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1aef877ab154f961a41cf79f4e53602fde3256ea" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1aef877ab154f961a41cf79f4e53602fde3256ea" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57987a18987ef783c17d68077ed27a914e9081f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57987a18987ef783c17d68077ed27a914e9081f7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80fc846b217e8f0478ee2152c6718feeb2b8b7b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80fc846b217e8f0478ee2152c6718feeb2b8b7b9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8f3261683bf754d82992f58e07482fc0ba64261" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8f3261683bf754d82992f58e07482fc0ba64261" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jzoffer/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jzoffer/BinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +27,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sort</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -53,19 +39,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590683674971" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.No152_maxProduct">
-    <configuration name="Baidu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="targetOffer.Baidu" />
+  <component name="RunManager" selected="Application.Test1 (2)">
+    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="targetOffer.xiaomi.Test1" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="targetOffer.*" />
+          <option name="PATTERN" value="targetOffer.xiaomi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bag.DP" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="targetOffer.didi.Test1" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bag.*" />
+          <option name="PATTERN" value="targetOffer.didi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mei3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="targetOffer.Mei3" />
+    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="targetOffer.didi.Test2" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="targetOffer.*" />
+          <option name="PATTERN" value="targetOffer.didi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Meituan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="targetOffer.Meituan" />
+    <configuration name="Test2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="targetOffer.xiaomi.Test2" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="targetOffer.*" />
+          <option name="PATTERN" value="targetOffer.xiaomi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,36 +100,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No152_maxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dreamBegin.dp.No152_maxProduct" />
+    <configuration name="Test3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="targetOffer.iqiyi.Test3" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dreamBegin.dp.*" />
+          <option name="PATTERN" value="targetOffer.iqiyi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Meituan" />
-      <item itemvalue="Application.Mei3" />
-      <item itemvalue="Application.DP" />
-      <item itemvalue="Application.Baidu" />
-      <item itemvalue="Application.No152_maxProduct" />
+      <item itemvalue="Application.Test3 (1)" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Test2 (1)" />
+      <item itemvalue="Application.Test1 (2)" />
+      <item itemvalue="Application.Test2 (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.No152_maxProduct" />
-        <item itemvalue="Application.Baidu" />
-        <item itemvalue="Application.DP" />
-        <item itemvalue="Application.Mei3" />
-        <item itemvalue="Application.Meituan" />
+        <item itemvalue="Application.Test1 (2)" />
+        <item itemvalue="Application.Test2 (2)" />
+        <item itemvalue="Application.Test2 (1)" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test3 (1)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -214,16 +214,75 @@
       <workItem from="1590678383082" duration="4183000" />
       <workItem from="1590727359474" duration="655000" />
       <workItem from="1591849828827" duration="8556000" />
+      <workItem from="1597589704294" duration="638000" />
+      <workItem from="1598957224362" duration="8363000" />
+      <workItem from="1599010459380" duration="4136000" />
+      <workItem from="1599062842099" duration="2070000" />
+      <workItem from="1599225630787" duration="1422000" />
+      <workItem from="1599393359846" duration="8126000" />
+      <workItem from="1599538745325" duration="22833000" />
+      <workItem from="1600069824446" duration="600000" />
+      <workItem from="1600168917941" duration="1443000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="422" height="464" key="DebuggerActiveHint" timestamp="1599895552027">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="422" height="464" key="DebuggerActiveHint/0.23.1440.826@0.23.1440.826" timestamp="1599895552027" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1600170030684">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600170030684" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1600170030683">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1600170030683" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1600170030683">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1600170030683" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1600170030684">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1600170030684" />
+    <state width="1398" height="186" key="GridCell.Tab.1.bottom" timestamp="1600069803810">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600069803810" />
+    <state width="1398" height="186" key="GridCell.Tab.1.center" timestamp="1600069803810">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1600069803810" />
+    <state width="1398" height="186" key="GridCell.Tab.1.left" timestamp="1600069803810">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1600069803810" />
+    <state width="1398" height="186" key="GridCell.Tab.1.right" timestamp="1600069803810">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="186" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1600069803810" />
+    <state x="443" y="179" width="997" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599895874389">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="443" y="179" width="997" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.826@0.23.1440.826" timestamp="1599895874389" />
+    <state x="842" y="214" width="598" height="490" key="find.popup" timestamp="1600168959141">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="842" y="214" width="598" height="490" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1600168959141" />
+    <state x="449" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1599395861050">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="449" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1599395861050" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -538,22 +597,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/bag/No40_CombinationSum.java</url>
-          <line>29</line>
+          <line>28</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/bag/No40_CombinationSum.java</url>
-          <line>32</line>
+          <line>31</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/bag/No40_CombinationSum.java</url>
-          <line>34</line>
+          <line>33</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/bag/No40_CombinationSum.java</url>
-          <line>37</line>
+          <line>36</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -861,6 +920,100 @@
           <line>34</line>
           <option name="timeStamp" value="250" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/PDD.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/PDD.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/PDD.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/tencent/Test3.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/Three60/Daka.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/Three60/Daka.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/Three60/Daka.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/netease/Test1.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/netease/Test1.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/netease/Test4.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test1.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test1.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test1.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test1.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test1.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="269" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

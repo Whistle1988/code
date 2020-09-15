@@ -18,11 +18,5 @@ public class TestReadWriteLock {
             Thread thread = new Thread(runnable);
             thread.start();
         }
-//        new Thread(new Runnable() {//一个线程写
-//            @Override
-//            public void run() {
-//                rw.set((int) (Math.random()*101));
-//            }
-//        },"read:").start();
     }
 }

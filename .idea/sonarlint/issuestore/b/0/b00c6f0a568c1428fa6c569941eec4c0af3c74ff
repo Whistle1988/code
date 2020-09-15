@@ -1,5 +1,0 @@
-
-k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò§ò›ùÿÿÿÿ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÃµ¶
-r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(­–„úÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯§ÈÅùÿÿÿÿ

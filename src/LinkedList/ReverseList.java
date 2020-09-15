@@ -19,6 +19,8 @@ public class ReverseList {
         return prev;
     }
     //尾递归
+    //递归函数必须要有终止条件，否则会出错；
+    //递归函数先不断调用自身，知道遇到终止条件后进行回溯，最终返回答案
     public ListNode _reverseList(ListNode head) {
         if (head == null || head.next == null) {
             return head;

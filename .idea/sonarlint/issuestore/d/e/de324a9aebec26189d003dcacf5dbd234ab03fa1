@@ -1,9 +1,0 @@
-
-=
-java:S1604
-"(Make this anonymous inner class a lambda(ûºÂr
-]	java:S125"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ8â‰î±.
-N
-java:S1612",Replace this lambda with a method reference.(†èÄğşÿÿÿÿ8ñù‰î±.
-D
-java:S2140")Use "java.util.Random.nextInt()" instead.(èŸƒşùÿÿÿÿ

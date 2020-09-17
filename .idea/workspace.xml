@@ -47,13 +47,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Test1 (2)">
-    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="targetOffer.xiaomi.Test1" />
+  <component name="RunManager" selected="Application.Test1 (1)">
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="targetOffer.jd.Test1" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="targetOffer.xiaomi.*" />
+          <option name="PATTERN" value="targetOffer.jd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="targetOffer.didi.Test1" />
+    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="targetOffer.xiaomi.Test1" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="targetOffer.didi.*" />
+          <option name="PATTERN" value="targetOffer.xiaomi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="targetOffer.iqiyi.Test3" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="targetOffer.jd.Test2" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="targetOffer.iqiyi.*" />
+          <option name="PATTERN" value="targetOffer.jd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test3 (1)" />
-      <item itemvalue="Application.Test1" />
       <item itemvalue="Application.Test2 (1)" />
       <item itemvalue="Application.Test1 (2)" />
       <item itemvalue="Application.Test2 (2)" />
+      <item itemvalue="Application.Test1 (1)" />
+      <item itemvalue="Application.Test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1 (2)" />
         <item itemvalue="Application.Test2 (2)" />
         <item itemvalue="Application.Test2 (1)" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -239,46 +239,46 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="422" height="464" key="DebuggerActiveHint/0.23.1440.826@0.23.1440.826" timestamp="1599895552027" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1600170030684">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1600346289407">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600170030684" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1600170030683">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600346289407" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1600346289406">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1600170030683" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1600170030683">
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1600346289406" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1600346289406">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1600170030683" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1600170030684">
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1600346289406" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1600346289407">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1600170030684" />
-    <state width="1398" height="186" key="GridCell.Tab.1.bottom" timestamp="1600069803810">
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1600346289407" />
+    <state width="1398" height="325" key="GridCell.Tab.1.bottom" timestamp="1600345616417">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="186" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600069803810" />
-    <state width="1398" height="186" key="GridCell.Tab.1.center" timestamp="1600069803810">
+    <state width="1398" height="325" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600345616417" />
+    <state width="1398" height="325" key="GridCell.Tab.1.center" timestamp="1600345616417">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="186" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1600069803810" />
-    <state width="1398" height="186" key="GridCell.Tab.1.left" timestamp="1600069803810">
+    <state width="1398" height="325" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1600345616417" />
+    <state width="1398" height="325" key="GridCell.Tab.1.left" timestamp="1600345616417">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="186" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1600069803810" />
-    <state width="1398" height="186" key="GridCell.Tab.1.right" timestamp="1600069803810">
+    <state width="1398" height="325" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1600345616417" />
+    <state width="1398" height="325" key="GridCell.Tab.1.right" timestamp="1600345616417">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="186" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1600069803810" />
+    <state width="1398" height="325" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1600345616417" />
     <state x="443" y="179" width="997" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599895874389">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="443" y="179" width="997" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.826@0.23.1440.826" timestamp="1599895874389" />
-    <state x="842" y="214" width="598" height="490" key="find.popup" timestamp="1600168959141">
+    <state x="842" y="214" width="598" height="490" key="find.popup" timestamp="1600342973278">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="842" y="214" width="598" height="490" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1600168959141" />
+    <state x="842" y="214" width="598" height="490" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1600342973278" />
     <state x="449" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1599395861050">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -1009,6 +1009,26 @@
           <url>file://$PROJECT_DIR$/src/targetOffer/didi/Test2.java</url>
           <line>33</line>
           <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/jd/Test1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/jd/Test2.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/jd/Test2.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/targetOffer/jd/Test2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="289" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />

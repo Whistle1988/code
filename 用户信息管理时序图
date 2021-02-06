@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-02-06T14:46:48.992Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="_hMcVqEn5wmIYDJmUmbe" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-06T14:43:57.242Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="uHfQoYGKaXyHhwSPso4w" version="14.2.9" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1989" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LrRMnMMiUNTjTofIwdJ0-1" value="server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="100" height="570" as="geometry" />
+          <mxGeometry x="290" y="80" width="100" height="530" as="geometry" />
         </mxCell>
         <mxCell id="LrRMnMMiUNTjTofIwdJ0-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LrRMnMMiUNTjTofIwdJ0-1">
           <mxGeometry x="45" y="90" width="10" height="50" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="45" y="330" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LrRMnMMiUNTjTofIwdJ0-6" value="用户A&lt;br&gt;client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry y="80" width="100" height="570" as="geometry" />
+          <mxGeometry y="80" width="100" height="530" as="geometry" />
         </mxCell>
         <mxCell id="LrRMnMMiUNTjTofIwdJ0-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LrRMnMMiUNTjTofIwdJ0-6">
           <mxGeometry x="45" y="90" width="10" height="50" as="geometry" />
@@ -43,7 +43,7 @@
             <mxPoint x="335" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-12" value="反馈好友列表并展示" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="1" target="LrRMnMMiUNTjTofIwdJ0-8">
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-12" value="返回登出，断开连接" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="1" target="LrRMnMMiUNTjTofIwdJ0-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="366" as="sourcePoint" />
             <mxPoint x="60" y="440" as="targetPoint" />
@@ -67,13 +67,41 @@
             <mxPoint x="54" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-18" value="拉取好友列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="260" width="90" height="20" as="geometry" />
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-18" value="修改密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-23" value="&lt;font face=&quot;verdana&quot;&gt;使用用户名搜索用户&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="390" width="120" height="20" as="geometry" />
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-19" value="" style="endArrow=classic;html=1;entryX=1.1;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347" y="290" as="sourcePoint" />
+            <mxPoint x="346" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="377" y="290" />
+              <mxPoint x="390" y="290" />
+              <mxPoint x="390" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-26" value="返回用户信息" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="1">
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-20" value="修改密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-21" value="" style="endArrow=classic;html=1;entryX=1.1;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="346" y="327" as="sourcePoint" />
+            <mxPoint x="345" y="347" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="376" y="327" />
+              <mxPoint x="389" y="327" />
+              <mxPoint x="389" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-22" value="清楚已登录Seesion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="327" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-23" value="&lt;font face=&quot;verdana&quot;&gt;使用新密码登录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="390" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-26" value="返回登录成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="332.5" y="470" as="sourcePoint" />
             <mxPoint x="57.5" y="470" as="targetPoint" />
@@ -105,31 +133,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-31" value="添加好友" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="490" width="60" height="20" as="geometry" />
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-31" value="用户上报洋葱网络地址和端口号，本地公钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-32" value="返回发送请求成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;entryX=0.9;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-32" value="返回上报成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;entryX=0.9;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="560.3599999999999" as="sourcePoint" />
             <mxPoint x="54" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-33" value="存储添加好友申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="525" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-36" value="" style="endArrow=classic;html=1;entryX=1.1;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="346" y="425" as="sourcePoint" />
-            <mxPoint x="345" y="445" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="376" y="425" />
-              <mxPoint x="389" y="425" />
-              <mxPoint x="389" y="445" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LrRMnMMiUNTjTofIwdJ0-37" value="检索用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="425" width="60" height="20" as="geometry" />
+        <mxCell id="LrRMnMMiUNTjTofIwdJ0-33" value="存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="525" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

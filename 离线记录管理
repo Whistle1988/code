@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T13:30:17.935Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="M8XfEEU9-zmkJLnh8sYK" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T13:31:13.407Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="evBhfdy5xuoN_TXyANLo" version="14.2.9" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1989" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -51,8 +51,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tEgnpmbWHqM5JB2BYTI2-11" value="离线发送消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry y="30" width="90" height="20" as="geometry" />
+        <mxCell id="tEgnpmbWHqM5JB2BYTI2-11" value="聊天记录管理时序图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="40" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tEgnpmbWHqM5JB2BYTI2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="tEgnpmbWHqM5JB2BYTI2-2">
           <mxGeometry relative="1" as="geometry">

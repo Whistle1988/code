@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T11:56:08.094Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Aop9IAiBB3SoDPc5VXBd" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T15:27:47.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="0GlmVmsEeT9kwTDYMoUe" version="14.2.9" type="github">
   <diagram id="5fvuw2dGT4YF_XITEjJB" name="Page-1">
-    <mxGraphModel dx="1716" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,10 +37,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyWGlcX98oZRPh7EGz9q-12" value="离线发送文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="40" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fyWGlcX98oZRPh7EGz9q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fyWGlcX98oZRPh7EGz9q-2" edge="1" target="fyWGlcX98oZRPh7EGz9q-8">
+        <mxCell id="fyWGlcX98oZRPh7EGz9q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fyWGlcX98oZRPh7EGz9q-2" target="fyWGlcX98oZRPh7EGz9q-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="54" y="230" as="targetPoint" />
             <Array as="points">
@@ -61,8 +58,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyWGlcX98oZRPh7EGz9q-17" value="使用好友公钥加密本地文件&lt;br&gt;记录文件发送记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="280" width="160" height="30" as="geometry" />
+        <mxCell id="fyWGlcX98oZRPh7EGz9q-17" value="使用好友公钥、本地对称密钥、文件组成数字信封&lt;br&gt;记录文件发送记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="280" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fyWGlcX98oZRPh7EGz9q-18" value="" style="endArrow=classic;html=1;entryX=0.1;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,7 +139,7 @@
         <mxCell id="fyWGlcX98oZRPh7EGz9q-35" value="返回文件数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="620" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RttYiSyt3qFs6vocEZFU-1" value="" style="endArrow=classic;html=1;entryX=1.3;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="RttYiSyt3qFs6vocEZFU-1" value="" style="endArrow=classic;html=1;entryX=1.3;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="345" y="370" as="sourcePoint" />
             <mxPoint x="345" y="414.46000000000004" as="targetPoint" />

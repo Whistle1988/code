@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T10:54:42.193Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Qoy6qlF8cCqMLlTe3dhB" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T14:24:32.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="8vamYlms7HT1BNUOI14t" version="14.2.9" type="github">
   <diagram id="NF8mfI5nIgpWupn4W00M" name="Page-1">
-    <mxGraphModel dx="1716" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,7 @@
         <mxCell id="Ao2rDgX3O-iNqPfQux_e-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="Ao2rDgX3O-iNqPfQux_e-6" vertex="1">
           <mxGeometry x="45" y="190" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Ao2rDgX3O-iNqPfQux_e-9" value="用户好友管理时序图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="30" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Ao2rDgX3O-iNqPfQux_e-10" value="" style="endArrow=classic;html=1;" parent="1" edge="1" source="Ao2rDgX3O-iNqPfQux_e-8">
+        <mxCell id="Ao2rDgX3O-iNqPfQux_e-10" value="" style="endArrow=classic;html=1;" parent="1" source="Ao2rDgX3O-iNqPfQux_e-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="280" as="sourcePoint" />
             <mxPoint x="336" y="280" as="targetPoint" />
@@ -40,13 +37,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ao2rDgX3O-iNqPfQux_e-11" value="" style="endArrow=classic;html=1;entryX=0.1;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.1;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="Ao2rDgX3O-iNqPfQux_e-8">
+        <mxCell id="Ao2rDgX3O-iNqPfQux_e-11" value="" style="endArrow=classic;html=1;entryX=0.1;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.1;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Ao2rDgX3O-iNqPfQux_e-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="54" y="410" as="sourcePoint" />
             <mxPoint x="335" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ao2rDgX3O-iNqPfQux_e-12" value="反馈好友列表并展示" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;" parent="1" target="Ao2rDgX3O-iNqPfQux_e-8" edge="1">
+        <mxCell id="Ao2rDgX3O-iNqPfQux_e-12" value="返回好友列表并展示" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;" parent="1" target="Ao2rDgX3O-iNqPfQux_e-8" edge="1">
           <mxGeometry x="0.578" relative="1" as="geometry">
             <mxPoint x="330" y="366" as="sourcePoint" />
             <mxPoint x="60" y="440" as="targetPoint" />
@@ -65,7 +62,7 @@
         <mxCell id="Ao2rDgX3O-iNqPfQux_e-14" value="用户登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="150" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ao2rDgX3O-iNqPfQux_e-15" value="登录成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;exitX=0;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="Ao2rDgX3O-iNqPfQux_e-6">
+        <mxCell id="Ao2rDgX3O-iNqPfQux_e-15" value="登录成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;exitX=0;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="Ao2rDgX3O-iNqPfQux_e-6" edge="1">
           <mxGeometry x="0.5662" relative="1" as="geometry">
             <mxPoint x="335" y="220.3599999999999" as="sourcePoint" />
             <mxPoint x="54" y="220" as="targetPoint" />
@@ -78,7 +75,7 @@
         <mxCell id="Ao2rDgX3O-iNqPfQux_e-17" value="&lt;font face=&quot;verdana&quot;&gt;使用用户名搜索用户&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ao2rDgX3O-iNqPfQux_e-18" value="返回用户信息" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;" parent="1" edge="1" target="Ao2rDgX3O-iNqPfQux_e-6">
+        <mxCell id="Ao2rDgX3O-iNqPfQux_e-18" value="返回用户信息" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;" parent="1" target="Ao2rDgX3O-iNqPfQux_e-6" edge="1">
           <mxGeometry x="0.5642" relative="1" as="geometry">
             <mxPoint x="332.5" y="470" as="sourcePoint" />
             <mxPoint x="57.5" y="470" as="targetPoint" />
@@ -114,7 +111,7 @@
         <mxCell id="Ao2rDgX3O-iNqPfQux_e-23" value="添加好友" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="490" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ao2rDgX3O-iNqPfQux_e-24" value="返回发送请求成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="Ao2rDgX3O-iNqPfQux_e-21">
+        <mxCell id="Ao2rDgX3O-iNqPfQux_e-24" value="返回发送请求成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="Ao2rDgX3O-iNqPfQux_e-21" edge="1">
           <mxGeometry x="0.5818" y="-10" relative="1" as="geometry">
             <mxPoint x="335" y="560.3599999999999" as="sourcePoint" />
             <mxPoint x="54" y="560" as="targetPoint" />
@@ -228,7 +225,7 @@
         <mxCell id="Ao2rDgX3O-iNqPfQux_e-52" value="删除好友" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="740" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ao2rDgX3O-iNqPfQux_e-53" value="返回删除成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;exitX=0;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="Ao2rDgX3O-iNqPfQux_e-6">
+        <mxCell id="Ao2rDgX3O-iNqPfQux_e-53" value="返回删除成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;dashed=1;exitX=0;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="Ao2rDgX3O-iNqPfQux_e-6" edge="1">
           <mxGeometry x="0.5662" y="-10" relative="1" as="geometry">
             <mxPoint x="335" y="810.3599999999999" as="sourcePoint" />
             <mxPoint x="54" y="810" as="targetPoint" />
@@ -238,7 +235,7 @@
         <mxCell id="Ao2rDgX3O-iNqPfQux_e-54" value="删除好友关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="775" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r-yMoYkSqyYrLUEUmAAm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.2;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ao2rDgX3O-iNqPfQux_e-29" target="Ao2rDgX3O-iNqPfQux_e-36">
+        <mxCell id="r-yMoYkSqyYrLUEUmAAm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.2;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ao2rDgX3O-iNqPfQux_e-29" target="Ao2rDgX3O-iNqPfQux_e-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="674" />

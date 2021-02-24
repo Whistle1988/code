@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:37:27.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Aga82SFRyfWFNAcSpTlK" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T14:52:56.675Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="jVQwnnsHUubjTvd_P3J3" version="14.4.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2016" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -122,8 +122,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Qf5lzdh4qV05KnsbzC-50" value="创建群组记录，生成群组标识&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;设置A为管理员&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="390" y="170" width="210" height="40" as="geometry" />
+        <mxCell id="f8Qf5lzdh4qV05KnsbzC-50" value="创建群组记录，&lt;br&gt;生成群组标识&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;并设置A为管理员&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="390" y="160" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8Qf5lzdh4qV05KnsbzC-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="335" y="445" width="10" height="50" as="geometry" />

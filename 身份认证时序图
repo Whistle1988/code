@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:26:59.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="hKqgmIJCuKDBhA1_KFiD" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T14:27:32.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="qWIF1G1TLBPAwlvUNEQg" version="14.4.2" type="github">
   <diagram id="dc5zNBcs4K00ShCbUwGM" name="Page-1">
     <mxGraphModel dx="916" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,6 +172,9 @@
         </mxCell>
         <mxCell id="6zrfR7tg9JC_licostkL-69" value="清除Session" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="440" y="525" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zd85qs6tb-sNSgW1KbwR-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry y="60" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

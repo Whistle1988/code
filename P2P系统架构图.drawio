@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T12:35:06.503Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="4FiFCak5XEfaUlbCYgWp" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T12:36:55.945Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="6WXpGOkoiOFBpew60X_m" version="14.4.3" type="github">
   <diagram id="OCHjULSu1DyBYGUDZAkZ" name="Page-1">
     <mxGraphModel dx="889" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="590" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c0s-1U45BDCgnt8DzCzi-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-128.png;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="797.5" y="450" width="40" height="40" as="geometry" />
+          <mxGeometry x="790" y="410.75" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c0s-1U45BDCgnt8DzCzi-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-128.png;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="475" y="470" width="40" height="40" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="414" y="280" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-z5hyXyrFVvHmD_KuJB-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-128.png;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="797.5" y="360" width="40" height="40" as="geometry" />
+          <mxGeometry x="860" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-z5hyXyrFVvHmD_KuJB-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-128.png;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="620" y="546" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="585" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-z5hyXyrFVvHmD_KuJB-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-128.png;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="469" y="200" width="40" height="40" as="geometry" />
@@ -59,9 +59,9 @@
           <mxGeometry x="374" y="579" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3aFzCoHox-xoftAFMv3z-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startArrow=classic;startFill=1;" parent="1" edge="1">
-          <mxGeometry x="359" y="439.5" as="geometry">
-            <mxPoint x="414" y="659.5" as="sourcePoint" />
-            <mxPoint x="414" y="610.5" as="targetPoint" />
+          <mxGeometry x="359" y="435.5" as="geometry">
+            <mxPoint x="414" y="655.5" as="sourcePoint" />
+            <mxPoint x="414" y="606.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c0s-1U45BDCgnt8DzCzi-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" target="c0s-1U45BDCgnt8DzCzi-21" edge="1">
@@ -131,6 +131,36 @@
         </mxCell>
         <mxCell id="T7WeoSZBhTSac08RslKe-21" value="浏览器端&lt;br style=&quot;font-size: 16px&quot;&gt;发送方" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="374" y="710" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T7WeoSZBhTSac08RslKe-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="520" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="T7WeoSZBhTSac08RslKe-31" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" vertex="1" parent="1">
+          <mxGeometry x="815" y="540" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="T7WeoSZBhTSac08RslKe-32" value="本地服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="800" y="579" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T7WeoSZBhTSac08RslKe-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry x="785" y="435.5" as="geometry">
+            <mxPoint x="840" y="655.5" as="sourcePoint" />
+            <mxPoint x="840" y="606.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7WeoSZBhTSac08RslKe-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logotypes/32/chrome-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="815" y="660" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T7WeoSZBhTSac08RslKe-35" value="浏览器端&lt;br style=&quot;font-size: 16px&quot;&gt;接收方" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="800" y="710" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T7WeoSZBhTSac08RslKe-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=1.08;exitY=0.692;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3aFzCoHox-xoftAFMv3z-5" target="9-z5hyXyrFVvHmD_KuJB-23">
+          <mxGeometry x="428.39" y="201" as="geometry">
+            <mxPoint x="478" y="434" as="sourcePoint" />
+            <mxPoint x="600" y="439.1549295774648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7WeoSZBhTSac08RslKe-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

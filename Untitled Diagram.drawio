@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:45:29.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="M05q7MnotycA3NHljh7K" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T13:12:59.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bp1DSKwJrENbbQKEWzRM" version="14.4.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2016" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2010" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
         <mxCell id="n4fmqsLKEYairKb7sybN-5" value="返回好友洋葱地址与端口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="95" y="210" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n4fmqsLKEYairKb7sybN-6" value="建立成功，返回通信加密公钥" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=16;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="7baba1c4bc27f4b0-13" target="7baba1c4bc27f4b0-9" edge="1">
+        <mxCell id="n4fmqsLKEYairKb7sybN-6" value="建立成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=16;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" source="7baba1c4bc27f4b0-13" target="7baba1c4bc27f4b0-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="310" as="sourcePoint" />
             <mxPoint x="684" y="330" as="targetPoint" />
@@ -80,8 +80,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n4fmqsLKEYairKb7sybN-10" value="使用好友公钥加密本地文件&lt;br style=&quot;font-size: 16px;&quot;&gt;记录文件发送记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="120" y="405" width="210" height="40" as="geometry" />
+        <mxCell id="n4fmqsLKEYairKb7sybN-10" value="浏览器端进行文件分片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="120" y="415" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n4fmqsLKEYairKb7sybN-11" value="" style="endArrow=classic;html=1;fontSize=16;" parent="1" source="n4fmqsLKEYairKb7sybN-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,8 +92,8 @@
         <mxCell id="n4fmqsLKEYairKb7sybN-15" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;verdana&quot; style=&quot;font-size: 16px;&quot;&gt;分片发送文件二进制数据&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="265" y="440" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n4fmqsLKEYairKb7sybN-16" value="接收文件，并用私钥解密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="730" y="520" width="190" height="20" as="geometry" />
+        <mxCell id="n4fmqsLKEYairKb7sybN-16" value="接收文件并组装，校验" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="730" y="520" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n4fmqsLKEYairKb7sybN-17" value="返回传输成功" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=16;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">

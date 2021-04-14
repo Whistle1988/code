@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T06:55:27.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="YdGN22oLfV8ab_OHHUQz" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T07:29:13.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="-ZClV7pwnbu6l1RkgV9H" version="14.5.10" type="github">
   <diagram id="kkxicVWJ4khZdMPzZSkg" name="Page-1">
     <mxGraphModel dx="910" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -51,8 +51,22 @@
         <mxCell id="E08MiePJ2XD23bQXPZum-18" value="发起离线文件分享" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="570" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E08MiePJ2XD23bQXPZum-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="E08MiePJ2XD23bQXPZum-21" target="E08MiePJ2XD23bQXPZum-23">
+        <mxCell id="E08MiePJ2XD23bQXPZum-24" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="E08MiePJ2XD23bQXPZum-21" target="E08MiePJ2XD23bQXPZum-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E08MiePJ2XD23bQXPZum-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E08MiePJ2XD23bQXPZum-21" target="E08MiePJ2XD23bQXPZum-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="545" />
+              <mxPoint x="160" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E08MiePJ2XD23bQXPZum-68" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="E08MiePJ2XD23bQXPZum-67">
+          <mxGeometry x="-0.8385" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E08MiePJ2XD23bQXPZum-21" value="好友确认接收" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="180.63" y="507.5" width="133.75" height="75" as="geometry" />

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T02:52:54.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="th003SIwagAdsPHoLsGu" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T03:07:47.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="aDr7dq5t0Z-IH_0NixNW" version="14.6.12" type="github">
   <diagram id="RYN0RgZ5WISnC3kY9zNR" name="Page-1">
-    <mxGraphModel dx="917" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,9 +126,6 @@
         </mxCell>
         <mxCell id="Jw8OyrKpR1fAX3dsVN2g-59" value="登出" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="140" y="480" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Jw8OyrKpR1fAX3dsVN2g-60" value="洋葱地址存储" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="269" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jw8OyrKpR1fAX3dsVN2g-61" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="615" y="300" width="60" height="20" as="geometry" />
